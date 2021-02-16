@@ -6,6 +6,7 @@ Current Admin commands (user invoking the command must have Administrator permis
 - `!group list` (Unavailable)
 - `!group delete` (Unavailable)
 - `!group clear` (Unavailable)
+
 Name MUST include the wildcard character if you want to make more than one channel (currently ?)
 Ex: `!group new saturday-? 22` will make 22 text + voice channels and roles from saturday-1 to saturday-22
 Current user commands:
